@@ -33,7 +33,7 @@
 }
 ```
 
-### comments
+### comment
 
 ```
 {
@@ -62,3 +62,9 @@
 | DELETE  | /videos/:id        | Remove a comment by its ID                          |
 | DELETE  | /products/:id      | Remove a comment by its ID                          |
 | DELETE  | /comments/:id      | Remove a comment by its ID                          |
+
+## Live Project
+
+- FE: https://tokopedia-play-clone-eight.vercel.app
+
+- BE: https://api.tokopedia-play.hcerpl.id
