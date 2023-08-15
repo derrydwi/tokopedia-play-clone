@@ -52,12 +52,13 @@
 | ------- | ------------------ | --------------------------------------------------- |
 | GET     | /                  | Show general information                            |
 | GET     | /videos            | Show all videos in the database                     |
-| GET     | /products          | Show all products in the database                   |
+| GET     | /videos/:id        | Show video based on that id                         |
+| PUT     | /videos/:id/play   | Increment play video views count                    |
 | GET     | /products/:videoId | Show all products based on videoId                  |
 | GET     | /comments/:videoId | Show all comments based on videoId                  |
-| POST    | /comments          | Insert a comment to a video based on videoId        |
 | POST    | /videos            | Insert a video to the database (admin)              |
 | POST    | /products          | Insert a product to the database of videoId (admin) |
+| POST    | /comments          | Insert a comment to a video based on videoId        |
 | DELETE  | /videos/:id        | Remove a comment by its ID                          |
 | DELETE  | /products/:id      | Remove a comment by its ID                          |
 | DELETE  | /comments/:id      | Remove a comment by its ID                          |
