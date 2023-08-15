@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "64c0027879fa15b5b29bd2c1",
+    "title": "iPhone 13 Pro Max",
+    "image": "https://images.unsplash.com/photo-1626686707291-7bda5c45e8a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+    "link": "https://google.com",
+    "price": 79990000,
+    "videoId": "64c0027879fa15b5b29bd2b3"
+  },
+  {
+    "_id": "64c0027879fa15b5b29bd2c5",
+    "title": "Samsung Galaxy S22 Ultra",
+    "image": "https://images.unsplash.com/photo-1599016012665-13b74bb3b528?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1336&q=80",
+    "link": "https://google.com",
+    "price": 79990000,
+    "videoId": "64c0027879fa15b5b29bd2b3"
+  },
+  {
+    "_id": "64c0027879fa15b5b29bd2c2",
+    "title": "Samsung Galaxy S22 Ultra",
+    "image": "https://images.unsplash.com/photo-1676121228785-f1dcd462025f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "link": "https://google.com",
+    "price": 8990000,
+    "videoId": "64c0027879fa15b5b29bd2b4"
+  },
+  {
+    "_id": "64c0027879fa15b5b29bd2c3",
+    "title": "MacBook Pro M1",
+    "image": "https://images.unsplash.com/photo-1662028003661-fffea3e20455?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "link": "https://google.com",
+    "price": 12990000,
+    "videoId": "64c0027879fa15b5b29bd2b5"
+  },
+  {
+    "_id": "64c0027879fa15b5b29bd2c4",
+    "title": "Dell XPS 13",
+    "image": "https://images.unsplash.com/photo-1625469312402-dbdc34f66425?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+    "link": "https://google.com",
+    "price": 10990000,
+    "videoId": "64c0027879fa15b5b29bd2b6"
+  },
+  {
+    "_id": "64c0027879fa15b5b29bd2c9",
+    "title": "iPhone 13 Pro Max",
+    "image": "https://images.unsplash.com/photo-1625766763788-95dcce9bf5ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "link": "https://google.com",
+    "price": 8990000,
+    "videoId": "64c0027879fa15b5b29bd2b1"
+  },
+  {
+    "_id": "64c0027879fa15b5b29bd2c6",
+    "title": "MacBook Pro M1",
+    "image": "https://images.unsplash.com/photo-1625469312402-dbdc34f66425?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+    "link": "https://google.com",
+    "price": 4990000,
+    "videoId": "64c0027879fa15b5b29bd2b2"
+  }
+]
